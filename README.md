@@ -97,8 +97,7 @@ Here are some ideas to get you started:
 
 ## 📫 Contact Me
 
-- 💌 officialsharadsharma@gmail.com  
-- 🌐 https://builtbysharad.vercel.app/  
+- 💌 officialsharadsharma@gmail.com   
 - 💼 https://www.linkedin.com/in/sharad-sharma-351588304/
 
 ---
