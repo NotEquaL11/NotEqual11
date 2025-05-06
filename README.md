@@ -127,7 +127,7 @@
 | 📂 **Code Snippet Manager** | Save, search, export C++ code snippets with statistics | C++, File I/O | [View Project](#) |
 | 🌐 **Personal Portfolio** | Animated gradient, theme toggle, responsive layout | HTML, CSS, JavaScript, React | [View Project](#) |
 
-> 📝 *Update the `#` links above with your actual GitHub/project URLs when available.*
+
 
 ---
 
