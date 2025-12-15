@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **First-Year Electronics and Computer Engineering Student**
+- 🎓 **Second-Year Electronics and Computer Engineering Student**
 - 🧠 **Aspiring Data Scientist**
 - 💻 **Frontend Developer** (React, JS, HTML, CSS, Ultimate CSS)
 - 👨‍💻 Proficient in **C++** and **Python**
